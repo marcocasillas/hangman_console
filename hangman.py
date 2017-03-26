@@ -56,4 +56,3 @@ while new_game:
         new_game = True
     else:
         new_game = False
-        
